@@ -1,0 +1,2 @@
+size,pair_index,repetitions,enc_mean,enc_stdev,enc_min,enc_max,hom_mean,hom_stdev,hom_min,hom_max,dec_mean,dec_stdev,dec_min,dec_max,score_mean,score_stdev,score_min,score_max,mem_avg_mean,mem_avg_stdev,mem_avg_min,mem_avg_max,mem_max_mean,mem_max_stdev,mem_max_min,mem_max_max
+4,1,2,0.00071,2.999999999999997e-05,0.00068,0.00074,20.0,0.0,20.0,20.0,1.015e-05,8.499999999999995e-07,9.3e-06,1.1e-05,2,0.0,2,2,539.7801721501957,4.317002507338543,535.4631696428571,544.0971746575342,634.25,0.0,634.25,634.25
