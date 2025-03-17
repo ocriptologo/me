@@ -1,3 +1,0 @@
-size,pair_index,repetition,encryption_time,homomorphic_time,decryption_time,score,start_pos,end_pos,mem_avg_MB,mem_max_MB
-4,1,1,0.00067,20.0,8.7e-06,2,"(3, 3)","(4, 4)",545.447247706422,636.25
-4,1,2,0.00076,20.0,8.8e-06,2,"(3, 3)","(4, 4)",533.6283482142857,635.0
